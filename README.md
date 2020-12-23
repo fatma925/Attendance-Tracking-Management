@@ -2,7 +2,7 @@
 # to run this project you need :<br>
 1- set up XAMPP with the latest verion of PHP , <a href="https://www.apachefriends.org/xampp-files/7.2.34/xampp-windows-x64-7.2.34-0-VC15-installer.exe"> from here <a/><br>
 2- open XAMPP and start (Apache and MYSQL) <br>
-3- install composer <a href="https://getcomposer.org/">composer </a>
+3- install composer <a href="https://getcomposer.org/">composer </a><br>
 4- install laravel 8 by composer <br>
     open command prompt and write this command ( composer global require laravel/installer )<br>
 5 go to <a href="http://localhost/phpmyadmin/"> phpmyadmin </a> and create a database call it "tracking" <br>
