@@ -14,3 +14,8 @@
 10- copy the server name and open it into your chrome browser <br>
 11- you are now in the login form , click the not registered link at the bottom <br>
 12- to enter the system for the first time, you should go to your database after registering your data correctly and edit the groubID field of employees to 1 to be an admin and be able to accept other employees requests<br>
+
+if you couldn't understand the steps you can see this short video <a href="https://youtu.be/hP6ow1uG6MU">video</a> and use this <a href="https://laravel.com/docs/8.x">documentation</a><br>
+
+
+<h5>don't forget that you should register first with correct data and go to database to change the groubID to 1 to can access the system and accept and add other employees <h5>
