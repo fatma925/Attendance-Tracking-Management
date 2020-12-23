@@ -18,4 +18,4 @@
 if you couldn't understand the steps you can see this short video <a href="https://youtu.be/hP6ow1uG6MU">video</a> and use this <a href="https://laravel.com/docs/8.x">documentation</a><br>
 
 
-<h5>don't forget that you should register first with correct data and go to database to change the groubID to 1 to can access the system and accept and add other employees <h5>
+<h3>don't forget that you should register first with correct data and go to database to change the groubID to 1 to can access the system and accept and add other employees <h3>
