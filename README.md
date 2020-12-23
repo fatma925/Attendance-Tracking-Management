@@ -1,5 +1,5 @@
-# this is a subsystem of an HR system that can track the absence and presence of employees ..
-# to run this project you need :<br>
+<h3> this is a subsystem of an HR system that can track the absence and presence of employees ..</h3>
+<h4> to run this project you need : <h4><br>
 1- set up XAMPP with the latest verion of PHP , <a href="https://www.apachefriends.org/xampp-files/7.2.34/xampp-windows-x64-7.2.34-0-VC15-installer.exe"> from here <a/><br>
 2- open XAMPP and start (Apache and MYSQL) <br>
 3- install composer <a href="https://getcomposer.org/">composer </a><br>
